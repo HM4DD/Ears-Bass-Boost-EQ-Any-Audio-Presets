@@ -2,8 +2,8 @@
 Ears: Bass Boost, EQ Any Audio! Presets
 
 
-✅ EDM_Boost
-✅ Rock_Attack
+✅ EDM_Boost 
+✅ Rock_Attack 
 ✅ Soft_Chill
 ✅ LoFi_Warm
 ✅ Jazz_Smooth
